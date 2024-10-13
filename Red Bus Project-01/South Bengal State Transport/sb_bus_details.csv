@@ -1,0 +1,67 @@
+Route_Name,Route_Link,Bus_Name,Bus_Type,Departing_Time,Duration,Reaching_Time,Star_Rating,Price,Seat_Availability
+Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,SBSTC-DURGAPUR - HABRA - VIA - DUNLOP - 14:05 (DGP DEPOT - 243,Non AC Seater (2+3),14:05,03h 30m,17:35,4.2,INR 155,5 Seats available
+Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,SBSTC-ASANSOL - KOLKATA - 14:05 (HOWRAH DEPOT) - 748,Non AC Seater (2+3),15:15,03h 30m,18:45,2.9,INR 150,1 Seat available
+Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,SBSTC-ASANSOL - KOLKATA - 15:05 (HWH DEPOT) - 210,Non AC Seater (2+3),16:15,03h 30m,19:45,3.3,INR 150,5 Seats available
+Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,SBSTC-ASANSOL - KOLKATA - 15:35 (HOWRAH DEPOT) - 211,Non AC Seater (2+3),16:45,03h 30m,20:15,2.6,INR 150,15 Seats available
+Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,SBSTC-ASANSOL - KOLKATA - 16:30 (HOWRAH DEPOT) - 752,Non AC Seater (2+3),17:40,03h 30m,21:10,3.7,INR 150,30 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - RAMPURHAT - VIA - TARAPITH - 14:00 - 2912,Non AC Seater (2+3),14:00,02h 00m,16:00,2.8,INR 95,7 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KARUNAMOYEE - BURDWAN - 14:00 (BWN DEPOT) - 457,Non AC Seater (2+3),14:00,02h 00m,16:00,3.8,INR 100,30 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - KIRNAHAR - 14:35 (BWN DEPOT) - 1047,Non AC Seater (2+3),14:35,02h 00m,16:35,3.3,INR 95,45 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KARUNAMOYEE - SURI - 14:45 (Suri Depot) - 645,Non AC Seater (2+3),14:45,02h 00m,16:45,3.9,INR 100,47 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KARUNAMOYEE - BURDWAN - 15:00 (BWN DEPOT) - 707,Non AC Seater (2+3),15:00,02h 00m,17:00,4.0,INR 100,27 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - RAMPURHAT - VIA - TARAPITH - 15:10 - 2494,Non AC Seater (2+3),15:10,02h 00m,17:10,3.6,INR 95,52 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - LANGALHATA - 15:15 (BWN DEPOT) - 1849,Non AC Seater (2+3),15:15,02h 00m,17:15,4.3,INR 95,45 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KARUNAMOYEE - BURDWAN - 16:00 (BWN DEPOT) - 117,Non AC Seater (2+3),16:00,02h 00m,18:00,3.8,INR 100,16 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - KANDRA - 16:00 (BWN DEPOT) - 689,Non AC Seater (2+3),16:00,02h 00m,18:00,4.1,INR 95,48 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - KANDI - VIA - FUTISANKO - 16:25 (BWN D - 3968,Non AC Seater (2+3),16:25,02h 00m,18:25,3.6,INR 95,52 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - LABPUR - 16:35 (HWH DEPOT) - 3238,Non AC Seater (2+3),16:35,02h 00m,18:35,2.4,INR 95,49 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - ASANSOL - L/S - 17:00 (ASANSOL DEPOT) - 769,Non AC Seater (2+3),17:00,02h 00m,19:00,2.7,INR 95,51 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KARUNAMOYEE - BURDWAN - 17:30 (BWN DEPOT) - 465,Non AC Seater (2+3),17:30,02h 00m,19:30,3.6,INR 100,39 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - DINANATHPUR - VIA - BURDWAN - 17:30 (BWN - 2952,Non AC Seater (2+3),17:30,02h 00m,19:30,2.6,INR 95,52 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KARUNAMOYEE - BURDWAN - 18:15 (BWN DEPOT) - 119,Non AC Seater (2+3),18:15,02h 00m,20:15,3.1,INR 100,47 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KARUNAMOYEE - BURDWAN - A/C - 18:45 (BWN DEPOT) - 1674,AC Seater (2+2),18:45,02h 00m,20:45,2.8,INR 200,23 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KARUNAMOYEE - BURDWAN - 19:30 (BWN DEPOT) - 120,Non AC Seater (2+3),19:30,02h 00m,21:30,3.7,INR 100,43 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - BURDWAN - 20:00 (BWN DEPOT) - 103,Non AC Seater (2+3),20:00,02h 00m,22:00,3.6,INR 95,52 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,WBTC (CTC) KARUNAMOYEE - DURGAPUR - ASANSOL (AC Volvo) Banglashree Express - 135|14:45,Volvo AC Seater (2+2),14:45,02h 25m,17:10,4.7,INR 210,12 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Greenline (Karunamoyee),Volvo A/C Seater (2+2),13:25,02h 05m,15:30,3.6,INR 429,18 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Express Line,Volvo A/C Seater (2+2),13:30,02h 10m,15:40,3.9,INR 429,34 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo A/C Seater (2+2),14:00,02h 20m,16:20,4.0,INR 429,19 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),14:00,02h 00m,16:00,4.0,INR 429,17 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Greenline (Karunamoyee),Volvo A/C Seater (2+2),15:00,02h 35m,17:35,4.1,INR 429,30 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Express Line,Scania Multi-Axle AC Semi Sleeper (2+2),15:30,01h 30m,17:00,4.0,INR 429,36 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Express Line (Karunamoyee),Volvo 9600 Multi Axle Semi-Sleeper (2+2),15:45,02h 15m,18:00,4.9,INR 429,34 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Greenline,Volvo 9600 Multi Axle Semi-Sleeper (2+2),16:00,01h 50m,17:50,4.4,INR 429,2 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo A/C Seater (2+2),16:00,02h 30m,18:30,3.5,INR 429,26 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),16:40,02h 15m,18:55,4.0,INR 429,30 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Greenline (Karunamoyee),Volvo A/C Seater (2+2),16:45,02h 35m,19:20,4.4,INR 429,25 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Express Line (Karunamoyee),Scania Multi-Axle AC Semi Sleeper (2+2),17:00,02h 15m,19:15,4.8,INR 429,43 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Express Line,Volvo 9600 A/C Seater (2+2),17:20,02h 10m,19:30,4.2,INR 429,45 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo A/C Seater (2+2),17:30,02h 30m,20:00,4.6,INR 429,33 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Greenline,Volvo A/C Seater (2+2),18:05,02h 40m,20:45,3.2,INR 429,36 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Suman sabir,Non AC Seater (2+3),18:50,03h 10m,22:00,2.4,INR 111,61 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Royal Cruiser,Volvo A/C Seater (2+2),19:30,02h 45m,22:15,1.5,INR 400,24 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Suman sabir,Non AC Seater (2+3),21:00,02h 59m,23:59,2.4,INR 111,54 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Pammi Travels,Non A/C Seater / Sleeper (2+1),21:00,02h 59m,23:59,1.0,INR 999,1 Seat available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Pammi Travels,A/C Sleeper (2+1),21:00,02h 59m,23:59,1.0,INR 1999,5 Seats available
+Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Pammi Travels,A/C Sleeper (2+1),21:15,03h 05m,00:20,1.0,INR 1800,24 Seats available
+Haldia to Calcutta,https://www.redbus.in/bus-tickets/haldia-to-kolkata,SBSTC-HALDIA - KOLKATA - 14:00 (Haldia Depot) - 640,Non AC Seater (2+3),14:00,03h 00m,17:00,3.9,INR 110,22 Seats available
+Haldia to Calcutta,https://www.redbus.in/bus-tickets/haldia-to-kolkata,SBSTC-HALDIA - KOLKATA - 15:00 (Haldia Depot) - 641,Non AC Seater (2+3),15:00,03h 00m,18:00,4.0,INR 110,23 Seats available
+Haldia to Calcutta,https://www.redbus.in/bus-tickets/haldia-to-kolkata,SBSTC-HALDIA - KOLKATA - 16:05 (HALDIA DEPOT) - 1328,Non AC Seater (2+3),16:05,03h 00m,19:05,3.5,INR 110,5 Seats available
+Haldia to Calcutta,https://www.redbus.in/bus-tickets/haldia-to-kolkata,SBSTC-HALDIA - KOLKATA - ALL STOP - 17:30 (HLD DEPOT) - 630,Non AC Seater (2+3),17:30,03h 00m,20:30,3.3,INR 110,32 Seats available
+Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-KOLKATA - HALDIA - SPL - 14:05 (Haldia Depot) - 3015,Non AC Seater (2+3),14:05,03h 20m,17:25,3.8,INR 98,49 Seats available
+Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-KOLKATA - HALDIA - A/C - 14:30 (Haldia Depot) - 980,AC Seater (2+2),14:30,03h 00m,17:30,4.0,INR 210,14 Seats available
+Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-KOLKATA - HALDIA - NON STOP - 15:30 (HALDIA DEPOT) - 569,Non AC Seater (2+3),15:30,03h 00m,18:30,4.4,INR 135,43 Seats available
+Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-KOLKATA - HALDIA - A/C - 16:05 (Haldia Depot) - 1527,AC Seater (2+2),16:05,03h 00m,19:05,3.6,INR 210,8 Seats available
+Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-KOLKATA - HALDIA - 16:30 (Haldia Depot) - 809,Non AC Seater (2+3),16:30,03h 00m,19:30,3.5,INR 110,47 Seats available
+Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-KOLKATA - HALDIA - 17:00 (Haldia Depot) - 3017,Non AC Seater (2+3),17:00,03h 00m,20:00,3.7,INR 110,50 Seats available
+Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-KOLKATA - HALDIA - 17.30 (HALDIA DEPOT) - 565,Non AC Seater (2+3),17:30,03h 00m,20:30,4.3,INR 110,27 Seats available
+Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-KOLKATA - HALDIA - 18.15 (HALDIA DEPOT) - 566,Non AC Seater (2+3),18:15,03h 00m,21:15,3.2,INR 110,34 Seats available
+Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,Satadal Travels,A/C Seater (2+2),14:55,03h 20m,18:15,3.9,167,30 Seats available
+Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,Diamond City Service,A/C Executive (2+3),15:10,03h 45m,18:55,4.5,170,28 Seats available
+Kolkata to Midnapore,https://www.redbus.in/bus-tickets/kolkata-to-midnapore,SBSTC-KOLKATA - MIDNAPUR - 14:00 (MID DEPOT) - 3150,Non AC Seater (2+3),14:00,03h 00m,17:00,4.3,INR 110,50 Seats available
+Kolkata to Midnapore,https://www.redbus.in/bus-tickets/kolkata-to-midnapore,SBSTC-KARUNAMOYEE - MIDNAPUR - 13:00 (MID DEPOT) - 976,Non AC Seater (2+3),14:30,03h 00m,17:30,4.2,INR 110,48 Seats available
+Kolkata to Midnapore,https://www.redbus.in/bus-tickets/kolkata-to-midnapore,SBSTC-KOLKATA - JHARGRAM - VIA - DHARUA - 15:15(JHRGRAM) - 3798,Non AC Seater (2+3),15:15,03h 00m,18:15,2.9,INR 110,52 Seats available
+Kolkata to Midnapore,https://www.redbus.in/bus-tickets/kolkata-to-midnapore,,,,,,,,
+Kolkata to Midnapore,https://www.redbus.in/bus-tickets/kolkata-to-midnapore,,,,,,,,
+Barasat (West Bengal) to Digha,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-digha,WBTC (CTC) HABRA-DIGHA via Bally - 26|14:00,Non AC Seater (2+3),14:00,04h 00m,18:00,2.3,INR 161,39 Seats available
+Barasat (West Bengal) to Digha,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-digha,WBTC (CTC) BARASAT-DIGHA via Bally - 38|15:00,Non AC Seater (2+3),15:00,03h 45m,18:45,3.3,INR 161,31 Seats available
